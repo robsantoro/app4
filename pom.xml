@@ -15,9 +15,9 @@
     </dependency>
   </dependencies>
   <scm>
-	<connection>scm:git:git@github.com:robsantoro/app4.git</connection>
+	<connection>https://github.com/robsantoro/app4.git</connection>
 	<url>https://github.com/robsantoro/app4.git</url>
-	<developerConnection>scm:git:git@github.com:robsantoro/app4.git</developerConnection>
+	<developerConnection>https://github.com/robsantoro/app4.git</developerConnection>
     <tag>app4-1.0</tag>
   </scm>
   <build>
